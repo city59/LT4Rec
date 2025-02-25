@@ -28,11 +28,12 @@ graph for recommender systems](https://github.com/hwwang55/RippleNet)." to proce
 |                       |               | Book-Crossing | MovieLens-1M | Last.FM |
 | :-------------------: | :------------ | ----------:   | --------: | ---------: |
 | User-Item Interaction | #Users        |      17,860   |    6,036  |      1,872 |
-|                       | #Items        |      14,967   |    2,445  |      3,846 |
-|                       | #Interactions |     139,746   |  753,772  |      42,346|
-|    Knowledge Graph    | #Entities     |      77,903   |    182,011|      9,366 |
-|                       | #Relations    |          25   |         12|         60 |
-|                       | #Triplets     |   151,500     |  1,241,996|     15,518 |
+|                       | #Items        |      14,910   |    2,347  |      3,846 |
+|                       | #Interactions |     139,746   |  753,772  |     42,346 |
+|    Knowledge Graph    | #Entities     |      77,903   |    6,729  |      9,366 |
+|                       | #Relations    |          25   |        7  |         60 |
+|                       | #Triplets     |   19,793      |   20,195  |     15,518 |
+
 
 
 ## Reference 
